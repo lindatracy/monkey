@@ -33,7 +33,7 @@ function setup() {
 }
 
 function draw() {
-  background("pink");
+  background("blue");
   textSize(15);
   fill("red");
   score=Math.ceil(frameCount/frameRate());
